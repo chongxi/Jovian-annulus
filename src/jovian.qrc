@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>../images/axis.jpg</file>
+    <file>../images/Rewind.png</file>
+    <file>../images/Back.png</file>
+    <file>../images/Play.png</file>
+</qresource>
+</RCC>
+
